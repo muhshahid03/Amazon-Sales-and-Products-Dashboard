@@ -4,6 +4,18 @@
 Welcome to a comprehensive Power BI dashboard project focused on Amazon sales data. This project demonstrates my ability to transform raw data into insightful and actionable business intelligence.
 
 ---
+## 📸 Power BI Report Preview
+
+| **Overview Page** | **Product Page** |
+|-------------------|------------------|
+| ![Overview](Overview.png) | ![Product](Product.png) |
+
+| **Product Overview Page** | **Product Tooltip Page** |
+|---------------------------|---------------------------|
+| ![Product Overview](Product%20Overview.png) | ![Product Tooltip](Product%20Tooltip.png) |
+
+> 💡 *Hover for a closer look or click to expand for full detail.*
+
 
 ## ✅ Dashboard Highlights
 
