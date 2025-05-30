@@ -1,8 +1,9 @@
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon Logo" width="200"/>
 </p>
+
 # 🚀 Amazon Sales Dashboard – End-to-End Power BI Project  
-📊 From Overview to Deep Product Insights  
+## 📊 From Overview to Deep Product Insights  
 
 Welcome to a comprehensive Power BI dashboard project focused on Amazon sales data. This project demonstrates my ability to transform raw data into insightful and actionable business intelligence.
 
